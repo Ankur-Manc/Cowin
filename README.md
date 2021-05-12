@@ -1,7 +1,7 @@
 # Cowin
 Script to send the updates on availability of slots from Cowin website
 
-Kindly get python working on your system , preferrably python version >= 3
+Kindly get python working on your system , preferrably python version >= 3._._
 
 Run the states.py, to get the district id/s, you would need to use it in the cowin.py script
 
